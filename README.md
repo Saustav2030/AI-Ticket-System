@@ -73,22 +73,9 @@ A **smart ticket management system** that leverages **AI** to:
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation/Setup
 
-1. **Clone the repository**
-
-   ```bash
-   git clone <repository-url>
-   cd ai-ticket-assistant
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Environment Setup**
+1. **Environment Setup**
    Create a `.env` file in the root directory:
 
    ```env
